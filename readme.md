@@ -1,5 +1,5 @@
 ## Space X Automation
-@author - Biswajit Sundara
+@author - Alok Kumar Singh
 
 ### API details
 baseUrl = https://api.spacexdata.com
