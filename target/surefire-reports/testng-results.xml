@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-11T19:01:33Z" name="Suite" finished-at="2022-11-11T19:01:38Z" duration-ms="4710">
+    <groups>
+    </groups>
+    <test started-at="2022-11-11T19:01:33Z" name="Test" finished-at="2022-11-11T19:01:38Z" duration-ms="4710">
+      <class name="appl.tests.SpaceXTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:appl.tests.SpaceXTests@48aca48b]" started-at="2022-11-11T19:01:33Z" name="setup" finished-at="2022-11-11T19:01:34Z" duration-ms="1165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC001_validateResponseAndContent()[pri:0, instance:appl.tests.SpaceXTests@48aca48b]" started-at="2022-11-11T19:01:34Z" name="TC001_validateResponseAndContent" finished-at="2022-11-11T19:01:38Z" duration-ms="3510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC001_validateResponseAndContent -->
+      </class> <!-- appl.tests.SpaceXTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
